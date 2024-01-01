@@ -8,6 +8,5 @@
 </head>
 <body>
     <h1>Hello, PHP World!</h1>
-        <h1>test1</h1>
 </body>
 </html>
